@@ -10,4 +10,3 @@ Throughout this document, the words “Readymag,” “us,” “we,” and “o
 
 Please read the Terms of Service and the Privacy Policy before using our Site or Service. By using or accessing our Site and using any of our Services, you acknowledge and agree to these terms and agree to be bound by this Agreement and the Privacy Policy. We may amend our Terms of Service or Privacy Policy from time to time, your continued use of our Site or Service will constitute acknowledgement and consent to any amendments made within the Privacy Policy and Terms of Service.
 
-If you do not agree to the Terms of Service or the Privacy Policy please stop using our Site and Service immediately. Additionally, users of our Service must be above the age of 13. If you are under the age of 13 please stop using our Site and Service immediately. If you are between the ages of 13 and 18 please get your parent's or trustee's permission before using our Site or Service.
