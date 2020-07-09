@@ -6,14 +6,14 @@
       {
         "title": "Polkadot CC1 state of staking dashboard",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
-        "slug": "Polkadot-CC1-state-of-staking",
+        "slug": "CC1-state-of-staking",
         "stakeUrl": "https://p2p.org/polkadot?utm_source=PolkadotDashboard&utm_campaign=PolkadotDashboard",
         "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
       },
       {
         "title": "dashboard 2",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
-        "slug": "Polkadot-CC1-db2",
+        "slug": "CC1-db2",
         "stakeUrl": "https://p2p.org/polkadot?utm_source=PolkadotDashboard&utm_campaign=PolkadotDashboard",
         "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
       }
@@ -26,14 +26,14 @@
       {
         "title": "dashboard 1",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
-        "slug": "t-db1",
+        "slug": "db1",
         "stakeUrl": "",
         "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
       },
       {
         "title": "dashboard 2",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
-        "slug": "t-db2",
+        "slug": "db2",
         "stakeUrl": "",
         "redashUrl": "https://redash.p2p.org/public/dashboards/HBfzzpRiP2CLjZfgmumWCtVaJGO3CGGVNDHpqFDg?org_slug=default"
       }
