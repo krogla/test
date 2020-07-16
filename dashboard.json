@@ -4,6 +4,11 @@
     "imageUrl": "",
     "dashboards": [
       {
+        meta: {
+          title: "test",
+          description: "test test",
+          urlImg: "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg"
+        }
         "title": "Polkadot CC1 state of staking dashboard",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
         "slug": "CC1-state-of-staking",
