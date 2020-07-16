@@ -64,6 +64,11 @@
     "imageUrl": "",
     "dashboards": [
       {
+        "meta": {
+          "title": "test",
+          "description": "test test",
+          "urlImg": "https://koloro.ua/media/upload/images/blog/Smeshnye%20nazvaniya%20vodki%20kak-izbezhat-oshibok-pri-razrabotke-nazvanij/33.jpg"
+        },
         "title": "dashboard cosmos 333",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non.",
         "slug": "db2",
