@@ -2,7 +2,7 @@
   "polkadot": {
     "title": "Polkadot",
     "imageUrl": "",
-    tokenName: "qq"
+    "tokenName": "qq",
     "dashboards": [
       {
        "meta": {
