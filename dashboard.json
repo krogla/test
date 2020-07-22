@@ -2,6 +2,7 @@
   "polkadot": {
     "title": "Polkadot",
     "imageUrl": "",
+    "tokenName": "",
     "dashboards": [
       {
        "meta": {
